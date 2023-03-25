@@ -241,3 +241,9 @@
         border-radius: 10px;
         cursor: pointer;
     }
+    article[id]{
+        scroll-margin-top: 70px ;
+    }
+    form[id]{
+        scroll-margin-top: 70px ;
+    }
