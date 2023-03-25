@@ -112,6 +112,7 @@
     .art-presentacion{
         justify-content: center;
         padding: 20px;
+        background-color: #202732;
         
     }
     .presentacion{
@@ -133,6 +134,7 @@
         display: flex;
         justify-content: center;
         padding: 30px;
+        background-color: #202732;
     }
 
     .experencia {
